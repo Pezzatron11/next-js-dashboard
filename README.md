@@ -1,2 +1,2 @@
-# next-s-dashboard
+# next-js-dashboard
 React app learning
